@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hirademirk
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: kubranurdemir45@gmail.com
 - 😄 Pronouns: She/Her
 
